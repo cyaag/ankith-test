@@ -1,0 +1,85 @@
+order_id,disposition,rule_id,deal_code,evidence_file,evidence_location,evidence_excerpt
+O-1001,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,ORCHID,central_restricted_list.csv;01_ORCHID_engagement_letter_2026-05-03.txt,C-77104;document text,"Halcyon Medical Devices,CV-302991,ACTIVE,2026-05-04,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT;The firm has been retained in connection with a possible sale of Halcyon
+Medical Devices Inc. Trading in Halcyon Medical Devices Inc. and its publicly
+traded securities must be restricted upon acceptance of this engagement. The
+restriction extends to the target group."
+O-1002,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,ORCHID,central_restricted_list.csv;01_ORCHID_engagement_letter_2026-05-03.txt,C-77104;document text,"Halcyon Medical Devices,CV-302991,ACTIVE,2026-05-04,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT;The firm has been retained in connection with a possible sale of Halcyon
+Medical Devices Inc. Trading in Halcyon Medical Devices Inc. and its publicly
+traded securities must be restricted upon acceptance of this engagement. The
+restriction extends to the target group."
+O-1003,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-120044) and all engagement-code deal correspondence by name/alias match for 'Ardmore Utilities Inc'; no restriction found.
+O-1004,HOLD,R3_TARGET_GROUP_CASCADE,SUNDIAL,03_SUNDIAL_engagement_letter_2026-05-11.txt,document text,"The firm has been retained in connection with a confidential disposal process
+involving Northshore Industrial Group plc. Trading in Northshore Industrial
+Group plc and its publicly traded securities must be restricted with immediate
+effect. The restriction applies to the target group."
+O-1005,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-131820) and all engagement-code deal correspondence by name/alias match for 'Brightline Semiconductor Corp'; no restriction found.
+O-1006,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,SUNDIAL,03_SUNDIAL_engagement_letter_2026-05-11.txt,document text,"The firm has been retained in connection with a confidential disposal process
+involving Northshore Industrial Group plc. Trading in Northshore Industrial
+Group plc and its publicly traded securities must be restricted with immediate
+effect. The restriction applies to the target group."
+O-1007,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-145991) and all engagement-code deal correspondence by name/alias match for 'Carrowmore Insurance Group plc'; no restriction found.
+O-1008,RELEASE,R6_CLOSURE_CORROBORATED,ORCHID,central_restricted_list.csv;02_ORCHID_amendment_1_2026-06-02.txt;09_weekly_transaction_committee_briefing_2026-06-19.txt,C-77118;document text;document text (corroborating),"Blue Mesa Holdings LLC,CV-184220,ACTIVE,2026-05-04,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT;Blue Mesa Holdings LLC has withdrawn from the process and is no longer a
+participant in the transaction. The trading restriction on Blue Mesa Holdings
+LLC is to be removed with effect from the date of this amendment, subject to
+Control Room confirmation.;5. Blue Mesa Holdings LLC withdrew on 2 June. Pinewell Capital Partners Inc
+   remains in the process and has requested an extension to diligence."
+O-1009,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-158340) and all engagement-code deal correspondence by name/alias match for 'Delaney Rail Holdings Inc'; no restriction found.
+O-1010,RELEASE,R5_UNRELATED_NAME_COLLISION,,12_market_commentary_2026-06-12.txt,document text,"UK industrials were mixed this week. Northshore Marine Holdings plc rose on a
+contract award in the offshore support segment; the company is unrelated to the
+Northshore Industrial group of companies despite the shared name, a point that
+continues to cause confusion on the desk."
+O-1011,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,,central_restricted_list.csv,C-77150,"Eastvale Chemical Company,CV-166210,ACTIVE,2026-03-17,,UNSPECIFIED,PRESCOTT_IMPORT"
+O-1012,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-172050) and all engagement-code deal correspondence by name/alias match for 'Fairmount Beverages plc'; no restriction found.
+O-1013,REVIEW,R7_CLOSURE_UNCORROBORATED_PENDING,EMBER,central_restricted_list.csv;05_EMBER_engagement_letter_2026-05-18.txt;06_EMBER_termination_notice_2026-06-09.txt,C-77203;document text;document text,"Lattice Mobility Corp,CV-900118,ACTIVE,2026-05-19,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT;The firm has been retained by Lattice Transit Corp in connection with a
+proposed recapitalisation. Trading in the issuer and its publicly traded
+securities must be restricted with effect from the date of this notice.;The restriction recorded against Lattice Mobility Corp should be closed, not
+deleted. The historical record is to be preserved for the standard retention
+period."
+O-1014,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-188730) and all engagement-code deal correspondence by name/alias match for 'Granton Aerospace Inc'; no restriction found.
+O-1015,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,,central_restricted_list.csv,C-77125,"Pinewell Capital Partners Inc,CV-662410,ACTIVE,2026-05-04,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT"
+O-1016,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-194460) and all engagement-code deal correspondence by name/alias match for 'Harborline Shipping AS'; no restriction found.
+O-1017,HOLD,R3_TARGET_GROUP_CASCADE,SUNDIAL,03_SUNDIAL_engagement_letter_2026-05-11.txt,document text,"The firm has been retained in connection with a confidential disposal process
+involving Northshore Industrial Group plc. Trading in Northshore Industrial
+Group plc and its publicly traded securities must be restricted with immediate
+effect. The restriction applies to the target group."
+O-1018,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-205110) and all engagement-code deal correspondence by name/alias match for 'Ilford Data Centres Ltd'; no restriction found.
+O-1019,RELEASE,R4_ENTITY_ONLY_NO_CASCADE,,central_restricted_list.csv;security_master.csv,C-77125;CV-662455,"Pinewell Capital Partners Inc,CV-662410,ACTIVE,2026-05-04,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT;Pinewell Specialty Finance Corp is a subsidiary of Pinewell Capital Partners Inc, which is restricted on an entity basis only; the restriction does not cascade."
+O-1020,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-217880) and all engagement-code deal correspondence by name/alias match for 'Jorvik Metals Corp'; no restriction found.
+O-1021,REVIEW,R8_AMBIGUOUS_SCOPE_PENDING_SCHEDULE,SUNDIAL,04_SUNDIAL_amendment_3_2026-06-18.txt,document text,"Until that schedule is available, questions regarding related entities should be
+referred to the SUNDIAL Control Room coverage officer."
+O-1022,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-224350) and all engagement-code deal correspondence by name/alias match for 'Kelso Pharmaceuticals Inc'; no restriction found.
+O-1023,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,CINDER,central_restricted_list.csv;07_CINDER_engagement_letter_2026-04-20.txt,C-77410;document text,"Cindermill Energy Corp,CV-410330,ACTIVE,2026-04-21,,ADVISORY_ENGAGEMENT,CV_CONTROL_ROOM;The firm has been retained in connection with a capital raise for Cindermill
+Energy Corp. Trading in Cindermill Energy Corp and its publicly traded
+securities must be restricted with effect from 21 April 2026. The restriction
+applies to the target group."
+O-1024,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-238600) and all engagement-code deal correspondence by name/alias match for 'Lowther Retail Group plc'; no restriction found.
+O-1025,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-778120) and all engagement-code deal correspondence by name/alias match for 'Sundial Resources Ltd'; no restriction found.
+O-1026,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-241770) and all engagement-code deal correspondence by name/alias match for 'Marrowbone Energy Inc'; no restriction found.
+O-1027,HOLD,R3_TARGET_GROUP_CASCADE,ORCHID,central_restricted_list.csv;01_ORCHID_engagement_letter_2026-05-03.txt,C-77104;document text,"Halcyon Medical Devices,CV-302991,ACTIVE,2026-05-04,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT;The firm has been retained in connection with a possible sale of Halcyon
+Medical Devices Inc. Trading in Halcyon Medical Devices Inc. and its publicly
+traded securities must be restricted upon acceptance of this engagement. The
+restriction extends to the target group."
+O-1028,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-255020) and all engagement-code deal correspondence by name/alias match for 'Netherfield Media Holdings'; no restriction found.
+O-1029,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,TANAGER,08_TANAGER_engagement_letter_2026-06-15.txt,document text,"The firm has been retained in connection with a possible acquisition of
+Whitcombe Foods Group plc. Trading in Whitcombe Foods Group plc and its
+publicly traded securities must be restricted with immediate effect. The
+restriction applies to the target group."
+O-1030,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-263490) and all engagement-code deal correspondence by name/alias match for 'Oakmere Water plc'; no restriction found.
+O-1031,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-271150) and all engagement-code deal correspondence by name/alias match for 'Pelham Logistics Inc'; no restriction found.
+O-1032,HOLD,R3_TARGET_GROUP_CASCADE,SUNDIAL,03_SUNDIAL_engagement_letter_2026-05-11.txt,document text,"security_id was blank on this order; issuer resolved by exact legal-name match. The firm has been retained in connection with a confidential disposal process
+involving Northshore Industrial Group plc. Trading in Northshore Industrial
+Group plc and its publicly traded securities must be restricted with immediate
+effect. The restriction applies to the target group."
+O-1033,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-284730) and all engagement-code deal correspondence by name/alias match for 'Quarrydale Cement Ltd'; no restriction found.
+O-1034,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-290860) and all engagement-code deal correspondence by name/alias match for 'Redmoor Agricultural Inc'; no restriction found.
+O-1035,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,ORCHID,central_restricted_list.csv;01_ORCHID_engagement_letter_2026-05-03.txt,C-77104;document text,"Halcyon Medical Devices,CV-302991,ACTIVE,2026-05-04,,ADVISORY_ENGAGEMENT,PRESCOTT_IMPORT;The firm has been retained in connection with a possible sale of Halcyon
+Medical Devices Inc. Trading in Halcyon Medical Devices Inc. and its publicly
+traded securities must be restricted upon acceptance of this engagement. The
+restriction extends to the target group."
+O-1036,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-304220) and all engagement-code deal correspondence by name/alias match for 'Selkirk Textiles plc'; no restriction found.
+O-1037,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-318940) and all engagement-code deal correspondence by name/alias match for 'Torrington Devices Inc'; no restriction found.
+O-1038,RELEASE,R9_NO_RESTRICTION_FOUND,,central_restricted_list.csv;deal correspondence,n/a,Checked central_restricted_list.csv (by issuer_id CV-120044) and all engagement-code deal correspondence by name/alias match for 'Ardmore Utilities Inc'; no restriction found.
+O-1039,HOLD,R1_R2_RESTRICTED_ISSUER_ACTIVE,CINDER,central_restricted_list.csv;07_CINDER_engagement_letter_2026-04-20.txt,C-77410;document text,"Cindermill Energy Corp,CV-410330,ACTIVE,2026-04-21,,ADVISORY_ENGAGEMENT,CV_CONTROL_ROOM;The firm has been retained in connection with a capital raise for Cindermill
+Energy Corp. Trading in Cindermill Energy Corp and its publicly traded
+securities must be restricted with effect from 21 April 2026. The restriction
+applies to the target group."
